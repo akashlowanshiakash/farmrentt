@@ -163,6 +163,7 @@ var marketicon = document.querySelector("#mlefticon").addEventListener("click",f
 
 	document.querySelector("#third").style.height="100vh"
 	document.querySelector("#first").style.height="140vh"
+	document.querySelector("#fourth").style.height="120vh"
 	
 	setTimeout(() => {
 		document.querySelector("#marketpage").style.transform="scale(0)"

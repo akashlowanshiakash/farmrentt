@@ -584,7 +584,7 @@ animation-delay: 2s;
 #marketloader{
     height: 100%;
     width: 100%;
-    background: linear-gradient(to bottom right,rgb(3, 58, 3), rgb(47, 196, 47),rgb(4, 91, 43));
+    background-color: rgb(126, 190, 126);
     position: absolute;
     left: -105%;
     top: 0;
